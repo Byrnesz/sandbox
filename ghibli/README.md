@@ -1,4 +1,4 @@
-# Studio Ghibli App
+# Drumpf 2020 App
 
 - [View the tutorial](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript)
 
